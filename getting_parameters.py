@@ -1,5 +1,5 @@
 def getting_parameters(input_string):
-    scales = ('C', 'F')
+    scales = ('C', 'F', 'K', 'R', 'De', 'N')
 
     parameters = input_string.split(' ')
 
