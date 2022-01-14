@@ -1,6 +1,8 @@
 # Temperature converter
 This temperature converter was written on Python, and it can help you to convert temperature in any scales below.
 
+[![Testing](https://github.com/AndreyUlyanov/temperature-converter/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/AndreyUlyanov/temperature-converter/actions/workflows/main.yml)
+
 ## Temperature scales list
 This converter support conversions to such scales as Celsius (C), Fahrenheit (F), Kelvin (K), Rankin (R), Delisle (De) and Newton (N).
 
